@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
-  <title>Gremon Blog</title>
+  <title>启程吧！ | Gremon Blog</title>
   <meta name="description" content="Gremon Tech的官方Blog." />
   <meta name="keywords" content="" />
   <meta name="HandheldFriendly" content="True" />
@@ -12,15 +12,16 @@
   <link rel="shortcut icon" href="/">
   <link rel="alternate" href="/atom.xml" title="Gremon Blog">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Gremon Tech的官方Blog.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Gremon Blog">
-<meta property="og:url" content="https://blog.gremon.tech/index.html">
+  <meta name="description" content="Writer：Kevin Chu  Gremon Tech也组建一年了啊，时间着实是飞快啊！从第一天的一无所有，到现在有了5位开发者（包括本人），有了AuroraOS这一开源产品。 这个Blog，今天也是跟随着网站发布后正式上线了！大家好啊😃！我是Blog的管理者，以后大家可能会经常见到我。也许，这个Blog就长这个样子了吧，因为我还是个学生，而且团队还有很多项目等着我做（倒不如说是我懒😛）。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="启程吧！">
+<meta property="og:url" content="https://blog.gremon.tech/2017/archives/cj59s3u350000f0jfjij0sxiu">
 <meta property="og:site_name" content="Gremon Blog">
-<meta property="og:description" content="Gremon Tech的官方Blog.">
+<meta property="og:description" content="Writer：Kevin Chu  Gremon Tech也组建一年了啊，时间着实是飞快啊！从第一天的一无所有，到现在有了5位开发者（包括本人），有了AuroraOS这一开源产品。 这个Blog，今天也是跟随着网站发布后正式上线了！大家好啊😃！我是Blog的管理者，以后大家可能会经常见到我。也许，这个Blog就长这个样子了吧，因为我还是个学生，而且团队还有很多项目等着我做（倒不如说是我懒😛）。">
+<meta property="og:updated_time" content="2017-07-16T17:01:45.645Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Gremon Blog">
-<meta name="twitter:description" content="Gremon Tech的官方Blog.">
+<meta name="twitter:title" content="启程吧！">
+<meta name="twitter:description" content="Writer：Kevin Chu  Gremon Tech也组建一年了啊，时间着实是飞快啊！从第一天的一无所有，到现在有了5位开发者（包括本人），有了AuroraOS这一开源产品。 这个Blog，今天也是跟随着网站发布后正式上线了！大家好啊😃！我是Blog的管理者，以后大家可能会经常见到我。也许，这个Blog就长这个样子了吧，因为我还是个学生，而且团队还有很多项目等着我做（倒不如说是我懒😛）。">
     
   <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
@@ -141,26 +142,26 @@
   <div class="l_body">
     <div class='container clearfix'>
       <div class='l_main'>
-        
-<section class="post-list">
+        <article id="post-启程吧！"
+  class="post white-box article-type-post"
+  itemscope itemprop="blogPost">
+	<section class='meta'>
+	<h2 class="title">
+  	<a href="/2017/archives/cj59s3u350000f0jfjij0sxiu">
+    	启程吧！
+    </a>
+  </h2>
+	<time>
+	  7月 17, 2017
+	</time>
 	
-    <div class='post-wrapper'>
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/2017/archives/cj59s3u350000f0jfjij0sxiu">
-        启程吧！
-      </a>
-    </h2>
-    
-    <time>
-      7月 17, 2017
-    </time>
-		
-  </section>
-  <section class="article typo">
-	  <font size="4">Writer：Kevin Chu</font>
+	</section>
+	
+		<section class="toc-wrapper"></section>
+	
+	<section class="article typo">
+  	<div class="article-entry" itemprop="articleBody">
+    	<font size="4">Writer：Kevin Chu</font>
 
 <p>Gremon Tech也组建一年了啊，时间着实是飞快啊！从第一天的一无所有，到现在有了5位开发者（包括本人），有了AuroraOS这一开源产品。</p>
 <p>这个Blog，今天也是跟随着网站发布后正式上线了！大家好啊😃！我是Blog的管理者，以后大家可能会经常见到我。也许，这个Blog就长这个样子了吧，因为我还是个学生，而且团队还有很多项目等着我做（倒不如说是我懒😛）。</p>
@@ -172,17 +173,26 @@
 <p><small> Email: kevin@gremon.tech</small></p>
 <p><small> Github: Gremon-Kevin</small></p>
 
-
-    
-    
-    
-  </section>
+  	</div>
+	  
+		
+	
+	</section>
+	
+	        <!-- UY BEGIN -->
+		<section id="comments">
+		<div id="uyan_frame"></div>
+		<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2139373"></script>
+		</section>
+                <!-- UY END -->
+	
 </article>
-    </div>
-  
-</section>
-
-
+<script>
+	window.subData = {
+		title: '启程吧！',
+		tools: true
+	}
+</script>
 
       </div>
       <aside class='l_side'>
